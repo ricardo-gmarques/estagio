@@ -2241,12 +2241,12 @@
         "comparacao_sexo"
       ],
       "metadata": {
-        "id": "9rHL4fEWQRYW",
-        "outputId": "68d8d9ff-8e65-40ef-a5ef-e0733a4fb01f",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 112
-        }
+        },
+        "id": "9rHL4fEWQRYW",
+        "outputId": "68d8d9ff-8e65-40ef-a5ef-e0733a4fb01f"
       },
       "execution_count": 47,
       "outputs": [
@@ -2496,12 +2496,12 @@
         "comparacao_final_cbo"
       ],
       "metadata": {
-        "id": "4yTnHhq3TCwn",
-        "outputId": "4a5d061c-6981-41ce-989f-991fea5ef6ce",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 335
-        }
+        },
+        "id": "4yTnHhq3TCwn",
+        "outputId": "4a5d061c-6981-41ce-989f-991fea5ef6ce"
       },
       "execution_count": 48,
       "outputs": [
@@ -2901,12 +2901,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "gJra-8bnTMDD",
-        "outputId": "465db7df-b981-4fcf-dc3b-4d88c9106680",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 598
-        }
+        },
+        "id": "gJra-8bnTMDD",
+        "outputId": "465db7df-b981-4fcf-dc3b-4d88c9106680"
       },
       "execution_count": 50,
       "outputs": [
@@ -2930,12 +2930,12 @@
         "comparacao_final_cbo.sort_values('Pior cenário')"
       ],
       "metadata": {
-        "id": "ZP3bEMJ8UqYm",
-        "outputId": "c23f4b2d-953a-4906-a520-377892ed4692",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 335
-        }
+        },
+        "id": "ZP3bEMJ8UqYm",
+        "outputId": "c23f4b2d-953a-4906-a520-377892ed4692"
       },
       "execution_count": 51,
       "outputs": [
@@ -3301,12 +3301,12 @@
         "resultado"
       ],
       "metadata": {
-        "id": "QACswp2MVo9j",
-        "outputId": "8c603e59-8ab3-48fc-c062-2550f8afe6c0",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 143
-        }
+        },
+        "id": "QACswp2MVo9j",
+        "outputId": "8c603e59-8ab3-48fc-c062-2550f8afe6c0"
       },
       "execution_count": 61,
       "outputs": [
@@ -3565,12 +3565,12 @@
         "resultado_pobres"
       ],
       "metadata": {
-        "id": "-F-KuJKoWhUN",
-        "outputId": "e6ed0dc7-aa86-4ed2-f6c0-18cab7282689",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 143
-        }
+        },
+        "id": "-F-KuJKoWhUN",
+        "outputId": "e6ed0dc7-aa86-4ed2-f6c0-18cab7282689"
       },
       "execution_count": 63,
       "outputs": [
@@ -3809,12 +3809,12 @@
         "comparacao_sexo"
       ],
       "metadata": {
-        "id": "sQfO1h97Xxaw",
-        "outputId": "4caaaa76-6019-4fc6-ceaa-728b22cf5c15",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 143
-        }
+        },
+        "id": "sQfO1h97Xxaw",
+        "outputId": "4caaaa76-6019-4fc6-ceaa-728b22cf5c15"
       },
       "execution_count": 64,
       "outputs": [
@@ -4065,12 +4065,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "NvT04x68X7Wf",
-        "outputId": "a168ed37-e7b3-45b2-8f07-7ba4fe1a93fd",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 468
-        }
+        },
+        "id": "NvT04x68X7Wf",
+        "outputId": "a168ed37-e7b3-45b2-8f07-7ba4fe1a93fd"
       },
       "execution_count": 65,
       "outputs": [
@@ -4110,12 +4110,12 @@
         "comparacao_cbo_perc"
       ],
       "metadata": {
-        "id": "itzWZz3uYDrH",
-        "outputId": "47ac1fbc-83d1-4d42-9a43-0dc8793aa5a3",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 300
-        }
+        },
+        "id": "itzWZz3uYDrH",
+        "outputId": "47ac1fbc-83d1-4d42-9a43-0dc8793aa5a3"
       },
       "execution_count": 66,
       "outputs": [
@@ -4402,12 +4402,12 @@
         "tabela_media"
       ],
       "metadata": {
-        "id": "ZaAk9WwFeBbv",
-        "outputId": "f2215ee5-0b21-4be8-dcfe-62e94a1e2497",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 300
-        }
+        },
+        "id": "ZaAk9WwFeBbv",
+        "outputId": "f2215ee5-0b21-4be8-dcfe-62e94a1e2497"
       },
       "execution_count": 71,
       "outputs": [
@@ -4666,12 +4666,12 @@
         "tabela_mediana"
       ],
       "metadata": {
-        "id": "pqSGYknxeNKX",
-        "outputId": "d36123e5-0c4b-42b3-a64f-edbed26c4584",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 300
-        }
+        },
+        "id": "pqSGYknxeNKX",
+        "outputId": "d36123e5-0c4b-42b3-a64f-edbed26c4584"
       },
       "execution_count": 72,
       "outputs": [
@@ -4943,12 +4943,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "3GeA69WOehHH",
-        "outputId": "1f515449-85c8-40ec-80ea-3fea77c7fcc2",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 598
-        }
+        },
+        "id": "3GeA69WOehHH",
+        "outputId": "1f515449-85c8-40ec-80ea-3fea77c7fcc2"
       },
       "execution_count": 73,
       "outputs": [
@@ -4998,12 +4998,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "gW-jb9jdemH5",
-        "outputId": "291d77bf-2f7e-46fc-fdd7-7295c916f758",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 598
-        }
+        },
+        "id": "gW-jb9jdemH5",
+        "outputId": "291d77bf-2f7e-46fc-fdd7-7295c916f758"
       },
       "execution_count": 74,
       "outputs": [
@@ -5038,12 +5038,12 @@
         "resumo_geral"
       ],
       "metadata": {
-        "id": "w05lTZAkfsry",
-        "outputId": "94c5d6bf-1479-4d84-979b-6fba977e034b",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 112
-        }
+        },
+        "id": "w05lTZAkfsry",
+        "outputId": "94c5d6bf-1479-4d84-979b-6fba977e034b"
       },
       "execution_count": 78,
       "outputs": [
@@ -5267,12 +5267,12 @@
         "consistencia"
       ],
       "metadata": {
-        "id": "nQPJVNFbf1DA",
-        "outputId": "b4f66192-6760-4e52-e87c-02d10056ee85",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 300
-        }
+        },
+        "id": "nQPJVNFbf1DA",
+        "outputId": "b4f66192-6760-4e52-e87c-02d10056ee85"
       },
       "execution_count": 79,
       "outputs": [
@@ -5564,12 +5564,12 @@
         "comparacao_presenca"
       ],
       "metadata": {
-        "id": "9HzSp5Oef6gh",
-        "outputId": "9ed6cecd-d4a6-499b-92ad-30e66b597090",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 300
-        }
+        },
+        "id": "9HzSp5Oef6gh",
+        "outputId": "9ed6cecd-d4a6-499b-92ad-30e66b597090"
       },
       "execution_count": 80,
       "outputs": [
