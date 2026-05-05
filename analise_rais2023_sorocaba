@@ -2,16 +2,6 @@
   "cells": [
     {
       "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/ricardo-gmarques/estagio/blob/main/analise_rais2023_sorocaba\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
       "source": [
         "📊 Análise da RAIS 2023 – Setor de TI em Sorocaba\n",
         "\n",
@@ -5818,8 +5808,7 @@
   "metadata": {
     "colab": {
       "name": "scratchpad",
-      "provenance": [],
-      "include_colab_link": true
+      "provenance": []
     },
     "kernelspec": {
       "display_name": "Python 3",
